@@ -121,6 +121,6 @@ This repository is open to feedback and collaboration. If you have suggestions o
 
 For questions or further information, feel free to reach out:
 - **Email:** argha.chakraborti@gmail.com
-- **GitHub:** ssinbad-proj
+- **GitHub:** https://github.com/ssinbad-proj 
 
 ---
