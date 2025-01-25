@@ -120,7 +120,7 @@ This repository is open to feedback and collaboration. If you have suggestions o
 ## **Contact**
 
 For questions or further information, feel free to reach out:
-- **Email:** yourname@example.com
-- **GitHub:** [your-username](https://github.com/your-username)
+- **Email:** argha.chakraborti@gmail.com
+- **GitHub:** https://github.com/ssinbad
 
 ---
